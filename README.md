@@ -1,4 +1,9 @@
-# Fitting Poisson  distribution
+```c
+NAME : SHIVANI M
+REG-NO : 212224040313
+DATE : 20-03-2025
+```
+# EXP 2: Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -30,7 +35,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
- ```
+ ```python
 import numpy as np
 import math
 import scipy.stats
